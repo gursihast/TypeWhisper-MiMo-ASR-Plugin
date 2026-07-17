@@ -8,7 +8,11 @@ A community plugin that integrates Xiaomi MiMo v2.5 ASR into TypeWhisper on macO
 
 该插件解决 Xiaomi MiMo v2.5 ASR 通过OpenAI Compatible插件接入 TypeWhisper无效的问题，使 TypeWhisper Mac版可以使用 MiMo 的云端语音识别能力进行中文、英文、日文、韩文等多语言转写。
 
-> 本项目是 TypeWhisper 的第三方插件，不属于 TypeWhisper 官方项目。
+> 本项目是 TypeWhisper 的第三方插件，不属于 TypeWhisper 官方项目，核心功能代码由 AI 辅助生成（Vibe Coding），本人主要负责需求定义、功能整合、测试验证以及 macOS 环境适配。🙈
+
+- **代码质量**：本插件已在 macOS 26.5.2 上通过测试，能稳定实现小米 MiMo ASR 的调用，但代码风格和结构可能不完全符合 Swift 最佳实践。
+- **维护与支持**：本人并非专业 Swift 开发者，因此可能无法修复所有潜在的 Bug 或进行深度优化。非常欢迎和感激任何开发者提交 Issue 或 Pull Request 来帮助改进这个项目。
+- **致敬基础**：本项目的实现离不开 [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac) 提供的优秀平台和插件系统。
 
 ---
 
