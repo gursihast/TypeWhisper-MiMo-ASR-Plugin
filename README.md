@@ -1,14 +1,12 @@
-# TypeWhisper-MiMo-ASR
+# TypeWhisper-MiMo-ASR-Plugin
 
 Unofficial Xiaomi MiMo ASR plugin for [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac)).
 
 A community plugin that integrates Xiaomi MiMo v2.5 ASR into TypeWhisper on macOS.
 
-# TypeWhisper MiMo ASR Plugin
+一个为 [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac) 制作的 Xiaomi MiMo ASR 语音识别插件。
 
-一个为 [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac) 开发的 Xiaomi MiMo ASR 语音识别插件。
-
-该插件解决 Xiaomi MiMo v2.5 ASR 通过OpenAI Compatible插件接入 TypeWhisper无效的问题，使 TypeWhisper 可以使用 MiMo 的云端语音识别能力进行中文、英文、日文、韩文等多语言转写。
+该插件解决 Xiaomi MiMo v2.5 ASR 通过OpenAI Compatible插件接入 TypeWhisper无效的问题，使 TypeWhisper Mac版可以使用 MiMo 的云端语音识别能力进行中文、英文、日文、韩文等多语言转写。
 
 > 本项目是 TypeWhisper 的第三方插件，不属于 TypeWhisper 官方项目。
 
