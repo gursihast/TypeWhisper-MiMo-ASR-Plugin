@@ -1,6 +1,6 @@
 # TypeWhisper-MiMo-ASR-Plugin
 
-Unofficial Xiaomi MiMo ASR plugin for [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac)).
+Unofficial Xiaomi MiMo ASR plugin for [TypeWhisper-Mac](https://github.com/TypeWhisper/typewhisper-mac).
 
 A community plugin that integrates Xiaomi MiMo v2.5 ASR into TypeWhisper on macOS.
 
